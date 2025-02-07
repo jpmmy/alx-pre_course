@@ -1,1 +1,1 @@
-second readme
+a README for this directory
